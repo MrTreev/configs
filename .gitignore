@@ -1,0 +1,24 @@
+!/discord/settings.json
+GIMP
+MuseScore
+VCMI Team
+VirtualBox
+beets
+cef_user_data
+discord
+gh/hosts.yml
+libreoffice
+mana
+nvim-old/autoload
+nvim-old/plugged
+obs-studio
+pki
+pulse
+qmk
+quartus
+syncthing
+transmission
+unity3d
+vcmi
+vivaldi
+*.log

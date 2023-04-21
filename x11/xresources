@@ -1,0 +1,41 @@
+!! Mouse Cursor
+Xcursor.size: 24
+
+!! Transparency (0-1):
+*.alpha: 0.8
+
+!! Set a default font and font size as below:
+*.font: monospace:size=10
+
+!! Colour Definitions
+/* name		dark	light */
+/* black	0		8 */
+/* red		1		9 */
+/* green	2		10 */
+/* yellow	3		11 */
+/* blue		4		12 */
+/* purple	5		13 */
+/* cyan		6		14 */
+/* white	7		15 */
+
+!! Theme One
+/* *.color0:	#000000 */
+/* *.color1:	#fe0100 */
+/* *.color2:	#33ff00 */
+/* *.color3:	#feff00 */
+/* *.color4:	#0066ff */
+/* *.color5:	#cc00ff */
+/* *.color6:	#00ffff */
+/* *.color7:	#d0d0d0 */
+/* *.color8:	#808080 */
+/* *.color9:	#fe0100 */
+/* *.color10:	#33ff00 */
+/* *.color11:	#feff00 */
+/* *.color12:	#0066ff */
+/* *.color13:	#cc00ff */
+/* *.color14:	#00ffff */
+/* *.color15:	#FFFFFF */
+
+/* *.background: .color0 */
+/* *.color256:	0#1d2021 */
+/* *.color257:	15#ebdbb2 */
