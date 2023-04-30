@@ -22,4 +22,5 @@ xrandr \
 	--output DisplayPort-1-4 \
 		--off \
 	--output DisplayPort-1-5 \
-		--off
+		--off \
+&& setbg
