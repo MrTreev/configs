@@ -1,12 +1,16 @@
 !/discord/settings.json
+*.log
 GIMP
 MuseScore
+QtProject.conf
 VCMI Team
 VirtualBox
 beets
 cef_user_data
+dconf
 discord
 gh/hosts.yml
+htop
 libreoffice
 mana
 nvim-old/autoload
@@ -17,8 +21,7 @@ pulse
 qmk
 quartus
 syncthing
-transmission
+transmission*
 unity3d
 vcmi
 vivaldi
-*.log
